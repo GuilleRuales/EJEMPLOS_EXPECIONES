@@ -32,7 +32,7 @@ public class Main {
 
             System.out.println("Número ingresado: " + numero);
         } catch (Exception e) {
-            System.out.println("Error: Se esperaba un número entero. ");
+            System.out.println("Debe ingresar un numero entero. ");
 
         }
 
